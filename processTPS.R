@@ -15,4 +15,9 @@ for (i in myIncidentTypes) {
 	(cat('\t', i,'--', count1, '\n'))
 }
 
+cat("Average number of units dispatched for Priority > 5:", mean(TPSdata$Units_Arrived_At_Scene[TPSdata$Priority_Number > 5]), '\n')
+
+
+
+
 
