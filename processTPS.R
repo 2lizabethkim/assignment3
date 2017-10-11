@@ -33,6 +33,9 @@ cat("Average number of units dispatched for Priority > 5:", mean(TPSdata$Units_A
 # variable for sorting table of Forward_Sortation_Area in decreasing order
 maxFowardSortationArea <- sort(table(TPSdata$Forward_Sortation_Area), decreasing = TRUE)
 
+#cat this statement with the largest number of incidents and the postal code 
+cat("Postal code/s with the largest number of incidents (", maxFowardSortationArea[1], '): ', rownames(maxFowardSortationArea)[1], '\n')
+
 
 
 
