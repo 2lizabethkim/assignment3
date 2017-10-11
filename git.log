@@ -1,0 +1,65 @@
+commit caef1d07d5e5178a12357828df061498e6d615d6
+Author: Elizabeth Kim <eli.kim@mail.utoronto.ca>
+Date:   Wed Oct 11 15:50:03 2017 -0400
+
+    cat postal code with the largest number of incidents for specific year
+
+commit 2aa27abbb69c3c714c5f23324794ebde59b50ec0
+Author: Elizabeth Kim <eli.kim@mail.utoronto.ca>
+Date:   Wed Oct 11 15:47:18 2017 -0400
+
+    sort table of Forward_Sortation_Area in decreasing number of incidents for each postal code
+
+commit 70b807cf0e5a892de6990fd37c4061e5cfb29867
+Author: Elizabeth Kim <eli.kim@mail.utoronto.ca>
+Date:   Tue Oct 10 21:58:30 2017 -0400
+
+    script to loop through all csv files and do processTPS.R
+
+commit 291fa4bad3ad06c4cac2fe3c2ff73fba9dbc01fa
+Author: Elizabeth Kim <eli.kim@mail.utoronto.ca>
+Date:   Tue Oct 10 21:16:25 2017 -0400
+
+    cat avg number of units dispatched for priority>5
+
+commit ffa49274fc9dc3adc32c7e320ab4fc6f1cf203da
+Author: Elizabeth Kim <eli.kim@mail.utoronto.ca>
+Date:   Tue Oct 10 21:11:47 2017 -0400
+
+    cat total number of incidents per incident type
+
+commit 4424ed6bdd21a967fff9d69bd6d2177687e91d22
+Author: Elizabeth Kim <eli.kim@mail.utoronto.ca>
+Date:   Tue Oct 10 14:44:26 2017 -0400
+
+    add total number of incidents per incident type
+
+commit ee5d6449335d818b1aa242517816df9db4ceacf4
+Author: Elizabeth Kim <eli.kim@mail.utoronto.ca>
+Date:   Mon Oct 9 16:46:06 2017 -0400
+
+    cat 'processing data from file'
+
+commit fb5033d7cba6fc0a3a36b322d5579d3e4ba965f6
+Author: Elizabeth Kim <eli.kim@mail.utoronto.ca>
+Date:   Mon Oct 9 16:43:32 2017 -0400
+
+    read file and load data into data frame
+
+commit 6a32c4983fa50f181fc800379286403b30a6c1da
+Author: Elizabeth Kim <eli.kim@mail.utoronto.ca>
+Date:   Mon Oct 9 16:25:16 2017 -0400
+
+    add CSV files
+
+commit afb90750ecc9c97a565ea1c24100de234c0487b6
+Author: Elizabeth Kim <eli.kim@mail.utoronto.ca>
+Date:   Mon Oct 9 16:15:50 2017 -0400
+
+    add myscript.R
+
+commit c3046fb1e390c0d55b52cb4895dad3d1e2babe27
+Author: Elizabeth Kim <eli.kim@mail.utoronto.ca>
+Date:   Mon Oct 9 16:12:30 2017 -0400
+
+    first commit
